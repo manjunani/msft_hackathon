@@ -1,4 +1,4 @@
-
+'''Author: https://github.com/manjunani'''
 #This code will fetch the weather details for the given city name.
 #It will make use of geopy module to get the location details.
 #It will make use of weatherapi.com to get the current weather details of the city.
